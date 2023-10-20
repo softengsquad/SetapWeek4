@@ -5,4 +5,20 @@
 
 
 ## Questions
-1. 
+1. What type of songs relate to which weathers? (is a sad song always relating to rain...)
+2. Will the user be able to customise their music for each type of weather?
+3. Which devices will be used?
+4. How often should the weather state be updated?
+5. How will the Language of the music be determined?
+6. How would music be ranked for each type of weather? (most amount of listens or most fitting)
+7. What would happen if one song fits multiple types of weather? (should it be present in both?)
+
+
+## User Stories for Interview
+1. -
+2. -
+3. -
+4. -
+5. -
+6. -
+7. -
