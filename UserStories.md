@@ -17,8 +17,8 @@
 ## User Stories for Interview
 1. -
 2. -
-3. -
-4. -
+3. Used on mobile devices, when going to work (make it accessible to all)
+4. Every 30 minutes the weather will be updated. Maybe update it more when in an area with more variable climates
 5. -
 6. -
 7. -
