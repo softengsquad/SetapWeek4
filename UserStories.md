@@ -13,6 +13,7 @@
 6. How would music be ranked for each type of weather? (most amount of listens or most fitting)
 7. What would happen if one song fits multiple types of weather? (should it be present in both?)
 8. Would you used the app on multiple devices at the same time?
+9. Should you fade between songs? (to remove emotional whiplash between two very different genres)
 
 
 ## User Stories from Interview
