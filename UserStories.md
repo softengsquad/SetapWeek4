@@ -12,13 +12,15 @@
 5. How will the Language of the music be determined?
 6. How would music be ranked for each type of weather? (most amount of listens or most fitting)
 7. What would happen if one song fits multiple types of weather? (should it be present in both?)
+8. Would you used the app on multiple devices at the same time?
 
 
 ## User Stories for Interview
-1. -
+1. Don't pick songs specifically. Select genres for a certain weather and generate multiple songs for that genre. Give the ability to remove songs when needed.
 2. -
 3. Used on mobile devices, when going to work (make it accessible to all)
 4. Every 30 minutes the weather will be updated. Maybe update it more when in an area with more variable climates
 5. -
 6. -
 7. -
+8. One device at a time. As simple a user interface as possible.
